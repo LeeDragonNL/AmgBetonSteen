@@ -1102,9 +1102,10 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 50px;
 }
 
-.progress-table .table-head {
-  display: flex;
+.progress-table .table-head-start {
+  display: flex-start;
 }
+
 
 .progress-table .table-head .serial, .progress-table .table-head .country, .progress-table .table-head .visit, .progress-table .table-head .percentage {
   color: #222222;
