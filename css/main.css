@@ -1081,7 +1081,7 @@ h1, h2, h3, h4, h5, h6 {
 .progress-table {
   background: #f9f9ff;
   padding: 15px 0px 30px 0px;
-  max-width: 50%;
+  max-width: 100%;
 }
 
 .progress-table .serial {
@@ -1090,11 +1090,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .progress-table .country {
-  width: 25%;
+  width: 30%;
 }
 
 .progress-table .visit {
-  width: 25%;
+  width: 20%;
 }
 
 .progress-table .percentage {
